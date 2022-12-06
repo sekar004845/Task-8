@@ -1,0 +1,45 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+.container{
+	margin:0 auto;
+	width:90%;
+	margin-top:40px;
+}
+img{
+	max-width:100%;
+}
+.row{
+	display:flex;
+}
+.box1{
+	display:flex;
+	margin-right:40px;
+	width:44%;
+	margin-top:20px;
+	
+}
+h1,p,i{
+	padding:5px;
+}
+.col1{
+	flex-wrap:wrap;
+	display:flex;
+	padding:20px 0;
+}
+.column{
+	padding-left:20px;
+}
+i{
+	padding:20px;
+	font-size:30px;
+	color:orange;
+}
+h1{
+	font-size:35px;
+}
+.p{
+	font-size:23px;
+}
